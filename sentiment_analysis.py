@@ -96,7 +96,7 @@ print(f"Lemmatized text used for analysis: {text}\nPolarity score: {polarity_sco
 
 ###### Testing the model at different indices ######
 
-# Amend Index value on lines 70, 92, and 93
+# To test. please amend the Index values on lines 70, 92, and 93
 
 # Index[100]
 # Title of the review: Awesome having Show!
